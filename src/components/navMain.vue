@@ -27,6 +27,7 @@ export default defineComponent({
   },
   emits:['del'],
   setup(props,ctx){
+    
     // let store=useStore()
     // let list=computed(()=>{
     //   return store.state.list
